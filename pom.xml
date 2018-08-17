@@ -19,6 +19,7 @@
         <module>cloud-server</module>
         <module>cloud-client</module>
         <module>cloud-consumer</module>
+        <module>cloud-consumer-ribbon</module>
     </modules>
 
     <properties>
